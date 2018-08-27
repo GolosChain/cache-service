@@ -9,3 +9,5 @@ class Main extends BasicMain {
         // TODO -
     }
 }
+
+module.exports = Main;
